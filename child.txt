@@ -1,1 +1,4 @@
 init child.txt
+
+child version 1.0.0
+child dev-1 done!
