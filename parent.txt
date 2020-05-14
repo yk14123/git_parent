@@ -1,1 +1,4 @@
 init parent
+
+version 1.0.0
+parent dev-1 done
